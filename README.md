@@ -24,7 +24,8 @@ Welcome to the AI-Generated-Text-Detection project repository! This project focu
 ## Contributing
 Contributions are welcome! Feel free to open issues for feature requests, bug reports, or general feedback. Pull requests are also encouraged for implementing new features or fixing existing issues.
 ## License
-This project is licensed under the. Feel free to use and modify the code for your own purposes.
-
+This project is licensed under the [MIT License](https://github.com/Aleena2Francis/AIGeneratedTextDETECTION/blob/main/LICENSE). Feel free to use and modify the code for your own purposes.
+## Acknowledgement
+Special thanks to the developers of BERT, PyTorch, Transformers, and Flask for their incredible contributions to the field of natural language processing and web development.
 
 
