@@ -7,8 +7,9 @@ Welcome to the AI-Generated-Text-Detection project repository! This project focu
   * Implements a user-friendly web interface using Flask for seamless interaction.
   * Enables real-time detection of AI-generated text content.
   * Provides detailed insights and analysis of detected text.
-## Screenshots
-file:///home/aleena/Pictures/etherealresult.png
+## Results
+![]()
+![](https://github.com/Aleena2Francis/AIGeneratedTextDETECTION/blob/main/etherealresult.png)
 
 ## Requirements
   * Python 3.x
